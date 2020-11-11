@@ -1,23 +1,19 @@
-import logo from './logo.svg';
+import React from 'react'
 import './App.css';
+import Briyani from './briyani';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      
+     <h1>Asslam Alaikum Sir Plz Send Your review</h1>
+     <Briyani sirReviwe="best of luck" sirBestIdea="Read more keep practicing" />
+     <hr/>
+     <Briyani sirReviwe="best wishes for u" sirBestIdea="try different things " />
+     < hr/>
+     <Briyani sirReviwe="do some creative" sirBestIdea="Allah Hafiz" />
+     
+       
     </div>
   );
 }
