@@ -16,7 +16,7 @@ function App() {
      < hr/>
      <Briyani sirReviwe="do some creative" sirBestIdea="Allah Hafiz" />
      < hr/>
-     <Briyani sirReviwe="do some creative" sirBestIdea="code chl ku nhi rh " />
+     <Briyani sirReviwe="do some creative" sirBestIdea="is thre any mistake" />
      
      
        
