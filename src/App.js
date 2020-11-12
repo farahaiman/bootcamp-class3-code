@@ -19,6 +19,8 @@ function App() {
      <Briyani sirReviwe="do some creative" sirBestIdea="is thre any mistake" />
      < hr/>
      <Briyani sirReviwe="do some creative" sirBestIdea="testing is there any mistake" />
+     < hr/>
+     <Briyani sirReviwe="do some creative" sirBestIdea="y is not working :(" />
      
      
        
