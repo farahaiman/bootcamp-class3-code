@@ -12,6 +12,8 @@ function App() {
      <Briyani sirReviwe="best wishes for u" sirBestIdea="try different things " />
      < hr/>
      <Briyani sirReviwe="do some creative" sirBestIdea="Allah Hafiz" />
+     < hr/>
+     <Briyani sirReviwe="do some creative" sirBestIdea="FeamanAllah" />
      
        
     </div>
